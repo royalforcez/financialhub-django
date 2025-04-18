@@ -1,0 +1,6 @@
+projectKey=Financialhub
+serverUrl=http://localhost:9000
+serverVersion=25.3.0.104237
+dashboardUrl=http://localhost:9000/dashboard?id=Financialhub
+ceTaskId=d962c16a-5391-4275-bf10-65fcc31da26b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d962c16a-5391-4275-bf10-65fcc31da26b
