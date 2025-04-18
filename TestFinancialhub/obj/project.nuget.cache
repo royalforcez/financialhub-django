@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hweWMUHiZcw=",
+  "dgSpecHash": "52U077hfZpA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialHub\\TestFinancialhub.csproj",
+  "projectFilePath": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialhub\\TestFinancialhub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laroq\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\laroq\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

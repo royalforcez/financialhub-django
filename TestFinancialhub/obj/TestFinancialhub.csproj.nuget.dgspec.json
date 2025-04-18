@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialHub\\TestFinancialhub.csproj": {}
+    "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialhub\\TestFinancialhub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialHub\\TestFinancialhub.csproj": {
+    "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialhub\\TestFinancialhub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialHub\\TestFinancialhub.csproj",
+        "projectUniqueName": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialhub\\TestFinancialhub.csproj",
         "projectName": "TestFinancialhub",
-        "projectPath": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialHub\\TestFinancialhub.csproj",
+        "projectPath": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialhub\\TestFinancialhub.csproj",
         "packagesPath": "C:\\Users\\laroq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialHub\\obj\\",
+        "outputPath": "C:\\Users\\laroq\\OneDrive\\Bureau\\Bureau\\EPSI 2eme annee\\Dev_App_TMA\\Project_Financial\\financialhub-django\\TestFinancialhub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
